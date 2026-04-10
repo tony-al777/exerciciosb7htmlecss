@@ -1,0 +1,18 @@
+table{
+    margin: auto;
+    border: 1px solid #000;
+
+}
+
+th, td {
+    border: 1px solid #000;
+}
+th{
+    background-color: gray;
+}
+tr:nth-child(odd){
+    background-color: aliceblue;
+}
+tr:nth-child(even){
+    background-color: bisque;
+}

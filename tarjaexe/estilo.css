@@ -1,0 +1,25 @@
+#{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.tarja {
+    padding: 25px;
+    width: 300px;
+    height: auto;
+    background-color:rgb(45, 86, 221);
+    transform: rotate(-45deg);
+    margin-left: -70px;
+    box-shadow: 0.5px 0.5px 3px #000;
+}
+
+a{
+    margin-left: 5px;
+    padding: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    border-top: 1 px solid #fff;
+    border-bottom: 1px solid #fff;
+}
